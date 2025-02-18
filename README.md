@@ -1,2 +1,3 @@
 # bookbot
-Repo for my text static analysis project
+BookBot is my first project!
+
